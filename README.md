@@ -3,6 +3,6 @@
 NodeJS Web Application that uses Chat GPT AI to analyze your workout routine and offer improvements.
 
 Stack:
-- Framework - Vue.js
+- front-end framework - Vue.js
 - CSS - bootstrap
-- back-end framweoexpress, openai, dotenv, nodemon
+- back-end framework - express
